@@ -1,23 +1,23 @@
-# Tip Calculator Series
+# Simple Tip Calculator
 
 This repository contains two versions of a simple console-based Python program that calculates a tip based on a user's input for the total bill.
 
 ---
 
-## 🧾 About
+##  About
 
 This was my first Python project, created to get comfortable with basic programming concepts like user input, arithmetic, and formatting output. This will be part of an ongoing series to constantly improve the tip calculator as I continue to learn programming. The first version was a fixed 20% tip calculator. Later, I built a second version that lets the user choose their own tip percentage and includes basic error handling.
 
 ---
 
-## 🚀 What's Included
+##  What's Included
 
 - **`tipcalculator.py`** — The original version: calculates a 20% tip on any bill amount. Completed 5/19/2025
 - **`tipcalculatorv2.py`** — The improved version: asks the user for a custom tip percentage and handles invalid input gracefully. Completed 5/20/2025
 
 ---
 
-## 🛠 How It Works
+##  How It Works
 
 ### Version 1:
 1. Asks for the total bill.
@@ -32,14 +32,14 @@ This was my first Python project, created to get comfortable with basic programm
 
 ---
 
-## 🧑‍💻 Technologies Used
+##  Technologies Used
 
 - Python 3
 - PyCharm (code editor)
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to use `input()`, `float()`, and `print()`
 - How to do calculations with user-provided values
@@ -49,7 +49,7 @@ This was my first Python project, created to get comfortable with basic programm
 
 ---
 
-## 🧭 Next Steps
+##  Next Steps
 
 This project helped me build a foundation in Python. In the future, I’d like to:
 
